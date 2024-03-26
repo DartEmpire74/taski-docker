@@ -26,12 +26,8 @@ B
 gateway/nginx.conf,c\6\c6122a2b9eb28d7d27441d9fdf0526d194382591
 M
 docker-compose.production.yml,3\7\370a0e85078f22f4341e7943368e2fc1549b8197
-7
-.guthub,0\6\068f747c3e053bca02be1729a24a401136f7b9ec
 J
 .github/workflows/main.yml,c\7\c778226b6c4c0fb51cf7942c8ee1f3d9fc1249d0
-;
-setup.cfg  ,6\5\65975221d74b664fd860c35f058c2dda5c9a4901
 9
 	setup.cfg,8\c\8c91c0296909b5ea3c496fde69e9dc44a6c6ae5f
 D
